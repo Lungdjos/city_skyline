@@ -17,27 +17,20 @@ body {
 .bb1 {
     width: 10%;
     height: 70%;
-    flex-direction: column;
-    align-items: center;
-    display: flex;
 }
 
 .bb1a {
-    height: 10%;
-    width: 70%;
+    height: 1px;
+    width: ;
 }
 
 .bb1b {
-    height: 10%;
-    width: 80%;
+    height: 1px;
+    width: 0;
 }
 
 .bb1c {
-    height: 10%;
-    width: 90%;
+    hei
 }
 
-.bb1d {
-    height: 70%;
-    width: 100%;
-}
+.bb1d {}
