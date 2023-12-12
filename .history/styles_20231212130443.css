@@ -18,7 +18,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    background: url('https://th.bing.com/th/id/OIG.ANLLBcNxXVzfoBqMpc0C?pid=ImgDetMain') no-repeat;
+    background: url('https://th.bing.com/th/id/OIG.rIct5ivDf6iOm5KKGI9H?pid=ImgGn') no-repeat;
     background-size: cover;
 }
 
@@ -161,9 +161,7 @@ body {
 
 .fb2a {
     width: 100%;
-    border-bottom: 10vh solid var(--building-color3);
-    border-left: 1vw solid transparent;
-    border-right: 1vw solid transparent;
+    border-bottom: 10vh solid var(--building-color3)
 }
 
 .fb2b {
@@ -183,10 +181,6 @@ body {
     height: 35%;
     background-color: var(--building-color1);
 }
-
-.fb3a {}
-
-.fb3b {}
 
 .fb4 {
     width: 8%;

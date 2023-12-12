@@ -18,8 +18,6 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    background: url('https://th.bing.com/th/id/OIG.ANLLBcNxXVzfoBqMpc0C?pid=ImgDetMain') no-repeat;
-    background-size: cover;
 }
 
 .background-buildings,
@@ -136,11 +134,7 @@ body {
     height: 60%;
 }
 
-.fb1a {
-    border-bottom: 7vh solid var(--building-color4);
-    border-left: 2vw solid transparent;
-    border-right: 2vw solid transparent;
-}
+.fb1a {}
 
 .fb1b {
     width: 60%;
@@ -157,25 +151,7 @@ body {
 .fb2 {
     width: 10%;
     height: 40%;
-}
-
-.fb2a {
-    width: 100%;
-    border-bottom: 10vh solid var(--building-color3);
-    border-left: 1vw solid transparent;
-    border-right: 1vw solid transparent;
-}
-
-.fb2b {
-    width: 100%;
-    height: 75%;
     background-color: var(--building-color3);
-}
-
-.fb2-window {
-    height: 100%;
-    width: 22%;
-    background-color: var(--window-color3);
 }
 
 .fb3 {
@@ -183,10 +159,6 @@ body {
     height: 35%;
     background-color: var(--building-color1);
 }
-
-.fb3a {}
-
-.fb3b {}
 
 .fb4 {
     width: 8%;
